@@ -15,7 +15,6 @@ int main()
     int playerHealth = 20; //the player's health
     int bossHealth = 50; //the boss's health 
     int choice; //player's option
-    int bossChoice; //boss's auto generated melee moves
     int bossMissedChance = 0; //This is a factor if a boss can hit his target or not during melee combat
     int bossDamageChance = 0; //this is a factor if a boss can dodge the player's hit or not during melee combat
 
