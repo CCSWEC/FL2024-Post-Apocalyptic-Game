@@ -364,6 +364,7 @@ int main()
                     playerHealth -= 10;
                     Sleep(timeDelay);
                 break;
+            }
         }
     }
 }
